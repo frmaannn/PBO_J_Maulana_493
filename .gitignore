@@ -1,1 +1,2 @@
-Main.java
+# Mengabaikan file .class
+*.class
